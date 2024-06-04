@@ -1,0 +1,160 @@
+
+{
+    "code": 200,
+    "msg": "成功",
+    "data": {
+        "list": [
+            {
+                "id": "715175737246374511",
+                "rulename": "史勇",
+                "type": 2,
+                "createTime": "1986-09-26 13:32:16",
+                "rule":[]
+            },
+            {
+                "id": "683965274457197281",
+                "rulename": "范磊",
+                "type": 2,
+                "user": {
+                    "detail": {
+                        "age": 21
+                    }
+                },
+            
+                "createTime": "1983-01-11 02:30:10",
+
+            },
+            {
+                "id": "076977665539774208",
+                "rulename": "谢强",
+                "type": 2,
+                "user": {
+                    "detail": {
+                        "age": 17
+                    }
+                },
+                "idCard": "076977665539774208",
+                "email": "c.ogvy@lqcodn.edu",
+                "address": "山西省 阳泉市",
+                "createTime": "2022-11-13 22:31:32",
+                "status": 1,
+                "avatar": "https://i.imgtg.com/2023/01/16/QR57a.jpg"
+            },
+            {
+                "id": "911582651456433235",
+                "rulename": "贺明",
+                "type": 1,
+                "user": {
+                    "detail": {
+                        "age": 26
+                    }
+                },
+                "idCard": "911582651456433235",
+                "email": "b.rngn@eyks.as",
+                "address": "澳门特别行政区 澳门半岛",
+                "createTime": "2014-02-01 10:38:31",
+                "status": 0,
+                "avatar": "https://i.imgtg.com/2023/01/16/QR57a.jpg"
+            },
+            {
+                "id": "288605184005878676",
+                "rulename": "唐平",
+                "type": 1,
+                "user": {
+                    "detail": {
+                        "age": 17
+                    }
+                },
+                "idCard": "288605184005878676",
+                "email": "s.clpssh@nwpkudejsd.bn",
+                "address": "山西省 临汾市",
+                "createTime": "1994-12-23 22:37:15",
+                "status": 0,
+                "avatar": "https://i.imgtg.com/2023/01/16/QRBHS.jpg"
+            },
+            {
+                "id": "336322416251793851",
+                "rulename": "许敏",
+                "type": 2,
+                "user": {
+                    "detail": {
+                        "age": 20
+                    }
+                },
+                "idCard": "336322416251793851",
+                "email": "j.lfphj@qyowpme.fi",
+                "address": "甘肃省 甘南藏族自治州",
+                "createTime": "1987-12-14 02:48:26",
+                "status": 0,
+                "avatar": "https://i.imgtg.com/2023/01/16/QRqMK.jpg"
+            },
+            {
+                "id": "225343041313144696",
+                "rulename": "石艳",
+                "type": 2,
+                "user": {
+                    "detail": {
+                        "age": 18
+                    }
+                },
+                "idCard": "225343041313144696",
+                "email": "r.xosnos@jiee.jo",
+                "address": "福建省 三明市",
+                "createTime": "1986-03-16 04:43:11",
+                "status": 0,
+                "avatar": "https://i.imgtg.com/2023/01/16/QRa0s.jpg"
+            },
+            {
+                "id": "666601315496629675",
+                "rulename": "黄敏",
+                "type": 2,
+                "user": {
+                    "detail": {
+                        "age": 26
+                    }
+                },
+                "idCard": "666601315496629675",
+                "email": "k.plcuy@nnqfl.jm",
+                "address": "辽宁省 铁岭市",
+                "createTime": "2016-07-24 13:50:59",
+                "status": 1,
+                "avatar": "https://i.imgtg.com/2023/01/16/QRqMK.jpg"
+            },
+            {
+                "id": "726274709826742193",
+                "rulename": "罗刚",
+                "type": 1,
+                "user": {
+                    "detail": {
+                        "age": 28
+                    }
+                },
+                "idCard": "726274709826742193",
+                "email": "m.djpqfwzrkb@crqix.mr",
+                "address": "台湾 嘉义市",
+                "createTime": "1986-07-12 11:49:10",
+                "status": 0,
+                "avatar": "https://i.imgtg.com/2023/01/16/QR57a.jpg"
+            },
+            {
+                "id": "528488543292937464",
+                "rulename": "黄军",
+                "type": 1,
+                "user": {
+                    "detail": {
+                        "age": 11
+                    }
+                },
+                "idCard": "528488543292937464",
+                "email": "b.mmliaibut@qitpqcvegi.ba",
+                "address": "黑龙江省 鸡西市",
+                "createTime": "2020-05-27 12:16:51",
+                "status": 1,
+                "avatar": "https://i.imgtg.com/2023/01/16/QRa0s.jpg"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "total": 2000
+    }
+}

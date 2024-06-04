@@ -1,0 +1,179 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "path": "/home/index",
+      "name": "home",
+      "component": "/home/index",
+      "meta": {
+        "icon": "HomeFilled",
+        "title": "首页",
+        "isLink": "",
+        "isHide": false,
+        "isFull": false,
+        "isAffix": true,
+        "isKeepAlive": true
+      }
+    },
+    {
+      "path": "/dataScreen",
+      "name": "dataScreen",
+      "component": "/dataScreen/index",
+      "meta": {
+        "icon": "Histogram",
+        "title": "数据大屏",
+        "isLink": "",
+        "isHide": false,
+        "isFull": true,
+        "isAffix": false,
+        "isKeepAlive": true
+      }
+    },
+    {
+      "path": "/alarmlist",
+      "name": "alarmlist",
+      "component": "/alarmlist/index",
+      "meta": {
+        "icon": "Menu",
+        "title": "告警详情",
+        "isLink": "",
+        "isHide": false,
+        "isFull": false,
+        "isAffix": false,
+        "isKeepAlive": true
+      }
+    },
+    {
+      "path": "/rulesengine",
+      "name": "rulesengine",
+      "component": "/rulemanagement/index",
+      "meta": {
+        "icon": "Menu",
+        "title": "规则引擎",
+        "isLink": "",
+        "isHide": false,
+        "isFull": false,
+        "isAffix": false,
+        "isKeepAlive": true
+      }
+    },
+
+    {
+      "path": "/system",
+      "name": "system",
+      "redirect": "/system/accountManage",
+      "meta": {
+        "icon": "Tools",
+        "title": "系统管理",
+        "isLink": "",
+        "isHide": false,
+        "isFull": false,
+        "isAffix": false,
+        "isKeepAlive": true
+      },
+      "children": [
+        {
+          "path": "/system/accountManage",
+          "name": "accountManage",
+          "component": "/system/accountManage/index",
+          "meta": {
+            "icon": "Menu",
+            "title": "账号管理",
+            "isLink": "",
+            "isHide": false,
+            "isFull": false,
+            "isAffix": false,
+            "isKeepAlive": true
+          }
+        },
+        {
+          "path": "/system/roleManage",
+          "name": "roleManage",
+          "component": "/system/roleManage/index",
+          "meta": {
+            "icon": "Menu",
+            "title": "角色管理",
+            "isLink": "",
+            "isHide": false,
+            "isFull": false,
+            "isAffix": false,
+            "isKeepAlive": true
+          }
+        },
+        {
+          "path": "/system/systemLog",
+          "name": "systemLog",
+          "component": "/system/systemLog/index",
+          "meta": {
+            "icon": "Menu",
+            "title": "系统日志",
+            "isLink": "",
+            "isHide": false,
+            "isFull": false,
+            "isAffix": false,
+            "isKeepAlive": true
+          }
+        }
+      ]
+    },
+    {
+      "path": "/link",
+      "name": "link",
+      "redirect": "/link/bing",
+      "meta": {
+        "icon": "Paperclip",
+        "title": "外部链接",
+        "isLink": "",
+        "isHide": false,
+        "isFull": false,
+        "isAffix": false,
+        "isKeepAlive": true
+      },
+      "children": [
+        {
+          "path": "/link/github",
+          "name": "github",
+          "component": "/link/github/index",
+          "meta": {
+            "icon": "Menu",
+            "title": "GitHub 仓库",
+            "isLink": "https://github.com/HalseySpicy/Geeker-Admin",
+            "isHide": false,
+            "isFull": false,
+            "isAffix": false,
+            "isKeepAlive": true
+          }
+        },
+        {
+          "path": "/link/docs",
+          "name": "docs",
+          "component": "/link/docs/index",
+          "meta": {
+            "icon": "Menu",
+            "title": "项目文档",
+            "isLink": "https://docs.spicyboy.cn",
+            "isHide": false,
+            "isFull": false,
+            "isAffix": false,
+            "isKeepAlive": true
+          }
+        }
+      ]
+    },
+    {
+      "path": "/about/index",
+      "name": "about",
+      "component": "/about/index",
+      "meta": {
+        "icon": "InfoFilled",
+        "title": "关于项目",
+        "isLink": "",
+        "isHide": false,
+        "isFull": false,
+        "isAffix": false,
+        "isKeepAlive": true
+      }
+    }
+  ],
+  "msg": "成功"
+}
