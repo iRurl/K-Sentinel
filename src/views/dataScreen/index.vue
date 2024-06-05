@@ -7,7 +7,7 @@
         </div>
         <div class="header-ct">
           <div class="header-ct-title">
-            <span>智能安全运维可视化大数据展示平台</span>
+            <span>K-Sentinel：基于内核日志的安全监管平台</span>
             <div class="header-ct-warning">平台高峰预警信息</div>
           </div>
         </div>
